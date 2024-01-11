@@ -34,7 +34,7 @@ pytest
 ```
 
 Here's the result when I used Pytest
-[Pytest_result](./Public/Pytest_result.PNG)
+![Pytest_result](./Public/Pytest_result.PNG)
 
 
 ## Code Overview
